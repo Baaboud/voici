@@ -90,3 +90,7 @@
     transform: skew(-15deg, 0deg);
     box-shadow: 8px 8px #FFA9C3, 16px 16px #FFE5ED;;
 }
+
+.border-star {
+    border: 7px solid white;
+}
